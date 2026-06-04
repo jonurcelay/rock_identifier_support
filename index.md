@@ -35,7 +35,3 @@ A: Our AI is highly accurate for common rocks and minerals, but results may vary
 ---
 
 **Thank you for using Rock Identifier!** 🪨
-
----
-theme: jekyll-theme-cayman
----
