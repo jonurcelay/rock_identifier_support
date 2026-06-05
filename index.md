@@ -11,7 +11,7 @@ Welcome to **Rock Identifier** support!
 
 ### 📧 Contact Us
 
-**Email:** [your.email@gmail.com](mailto:your.email@gmail.com)  
+**Email:** [jonurce2@gmail.com](mailto:jonurce2@gmail.com)  
 *(We usually reply within 24-48 hours)*
 
 ### ❓ Frequently Asked Questions
